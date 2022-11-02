@@ -20,6 +20,7 @@ Our initial plan was to use the following:
 | Database | MariaDB |
 | Rendering | AE Render Engine with NodeJS |
 | Hosting | AWS EC2 |
+
 But we quickly realised that this was not going to be the best option for us. So we switched some stuff around. And this is what we ended up with.
 
 ## Frontend
